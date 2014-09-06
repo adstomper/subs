@@ -124,6 +124,21 @@
       <variant title="Norsk adblockliste" url="http://home.fredfiber.no/langsholt/adblock.txt"/>
     </variants>
   </subscription>
+    <subscription title="No mercy Easylist" specialization="Easylist no whitelist" homepage="https://sw.estiva.org:419/aaw/publist/adblock.html" type="ads" prefixes="no">
+    <variants>
+      <variant title="No mercy Easylist" url="http://pie.estiva.org:1223/data/abl/nm_easylist.txt"/>
+    </variants>
+  </subscription>
+  <subscription title="No mercy Easy Privacy" specialization="Easy Privacy no whitelist" homepage="https://sw.estiva.org:419/aaw/publist/adblock.html" type="ads" prefixes="no">
+    <variants>
+      <variant title="No mercy Easy Privacy" url="http://pie.estiva.org:1223/data/abl/nm_easyprivacy.txt"/>
+    </variants>
+  </subscription>
+  <subscription title="No mercy All in one" specialization="No mercy all in one" homepage="https://sw.estiva.org:419/aaw/publist/adblock.html" type="ads" prefixes="no">
+    <variants>
+      <variant title="No mercy All in one" url="http://pie.estiva.org:1223/data/abl/sw_aio.txt"/>
+    </variants>
+  </subscription>
   <subscription title="ROList" specialization="românesc" homepage="http://www.zoso.ro/rolist" type="ads" prefixes="ro">
     <variants>
       <variant title="ROList+EasyList" url="https://easylist-downloads.adblockplus.org/rolist+easylist.txt" complete="true"/>
